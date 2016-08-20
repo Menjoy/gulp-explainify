@@ -1,6 +1,6 @@
 {
   "name": "gulp-explainify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gulp plugin to apply explainjs",
   "main": "index.js",
   "scripts": {
