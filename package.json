@@ -13,6 +13,7 @@
   "keywords": [
     "explainjs",
     "docs",
+    "jsdoc",
     "gulp-explainify",
     "gulp"
   ],
@@ -21,11 +22,11 @@
   "bugs": {
     "url": "https://github.com/Menjoy/gulp-explainify/issues"
   },
-  "homepage": "https://github.com/Menjoy/gulp-explainify#readme",
-  "devDependencies": {
-    "explainjs": "0.0.9",
+  "dependencies": {
+    "explainjs": "https://github.com/Menjoy/explainjs#master",
     "gulp": "^3.9.1",
     "gulp-util": "^3.0.7",
     "through2": "^2.0.1"
-  }
+  },
+  "homepage": "https://github.com/Menjoy/gulp-explainify#readme"
 }
